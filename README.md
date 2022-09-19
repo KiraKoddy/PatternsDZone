@@ -1,0 +1,1 @@
+## Project [![Build status](https://ci.appveyor.com/api/projects/status/b8me6jqql9afqaj9?svg=true)](https://ci.appveyor.com/project/KiraKoddy/patternsdzone)
